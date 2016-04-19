@@ -1,11 +1,14 @@
 # citrus_hack
-citrusHack2015
-Team:
-Jonathan Fong
-Mike Claros
-Anderson Lam
-Carson Tan
+## Citrus Hack 2015
+<dl>
+    <dt>Team: </dt>
+    <dd> Jonathan Fong</dd>
+    <dd> Mike Claros  </dd>
+    <dd> Anderson Lam </dd>
+    <dd> Carson Tan   </dd>
+</dl>
 
+### Project Description
 projects were built with help from a platformer tutorial we found on youtube 
 2D platformer controller(Unity 5) by Sebastian Lague
 
