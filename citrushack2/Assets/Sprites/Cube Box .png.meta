@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: ad6f58ec221fd7c448c007e1005df7b8
+timeCreated: 1446999597
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cube Box _0
+    21300002: Cube Box _1
+    21300004: Cube Box _2
+    21300006: Cube Box _3
+    21300008: Cube Box _4
+    21300010: Cube Box _5
+    21300012: Cube Box _6
+    21300014: Cube Box _7
+    21300016: Cube Box _8
+    21300018: Cube Box _9
+    21300020: Cube Box _10
+    21300022: Cube Box _11
+    21300024: Cube Box _12
+    21300026: Cube Box _13
+    21300028: Cube Box _14
+    21300030: Cube Box _15
+    21300032: Cube Box _16
+    21300034: Cube Box _17
+    21300036: Cube Box _18
+    21300038: Cube Box _19
+    21300040: Cube Box _20
+    21300042: Cube Box _21
+    21300044: Cube Box _22
+    21300046: Cube Box _23
+    21300048: Cube Box _24
+    21300050: Cube Box _25
+    21300052: Cube Box _26
+    21300054: Cube Box _27
+    21300056: Cube Box _28
+    21300058: Cube Box _29
+    21300060: Cube Box _30
+    21300062: Cube Box _31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cube Box _0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _2
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _3
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _4
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _5
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _6
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _7
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _8
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _9
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _10
+      rect:
+        serializedVersion: 2
+        x: 3911
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _11
+      rect:
+        serializedVersion: 2
+        x: 4301
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _12
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _13
+      rect:
+        serializedVersion: 2
+        x: 5081
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _14
+      rect:
+        serializedVersion: 2
+        x: 5471
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _15
+      rect:
+        serializedVersion: 2
+        x: 5861
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _16
+      rect:
+        serializedVersion: 2
+        x: 6251
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _17
+      rect:
+        serializedVersion: 2
+        x: 6641
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _18
+      rect:
+        serializedVersion: 2
+        x: 7031
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _19
+      rect:
+        serializedVersion: 2
+        x: 7421
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _20
+      rect:
+        serializedVersion: 2
+        x: 7811
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _21
+      rect:
+        serializedVersion: 2
+        x: 8201
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _22
+      rect:
+        serializedVersion: 2
+        x: 8591
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _23
+      rect:
+        serializedVersion: 2
+        x: 8981
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _24
+      rect:
+        serializedVersion: 2
+        x: 9371
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _25
+      rect:
+        serializedVersion: 2
+        x: 9761
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _26
+      rect:
+        serializedVersion: 2
+        x: 10151
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _27
+      rect:
+        serializedVersion: 2
+        x: 10541
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _28
+      rect:
+        serializedVersion: 2
+        x: 10931
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _29
+      rect:
+        serializedVersion: 2
+        x: 11321
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _30
+      rect:
+        serializedVersion: 2
+        x: 11711
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cube Box _31
+      rect:
+        serializedVersion: 2
+        x: 12101
+        y: 34
+        width: 339
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
